@@ -1,0 +1,9 @@
+.db{
+    display:flex;
+    width:100%
+   
+}
+.dbcontainer{
+    flex:6;
+        
+}
